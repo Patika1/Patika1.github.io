@@ -1,0 +1,36 @@
+
+h1 {
+    text-align: right;
+}
+
+#non {color:green;} 
+h2 {
+    color:blueviolet;
+    }
+
+
+}
+h3 {
+    font-size:small; color: darkslateblue;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+}
+img {
+    width: 270px;
+}
+
+p {
+    color: darkolivegreen;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-weight: lighter;
+    font-style: bolder;
+    text-decoration: darkviolet;
+}
+.kiemelt {
+    font-weight: bold;
+    font-size: 18px;
+}
+.képek {
+    background-color: lightblue;
+}
